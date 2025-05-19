@@ -1,0 +1,20 @@
+{
+    "args": {
+        "foo1": "bar1",
+        "foo2": "bar2"
+    },
+    "headers": {
+        "host": "postman-echo.com",
+        "x-request-start": "t1747638569.881",
+        "connection": "close",
+        "x-forwarded-proto": "https",
+        "x-forwarded-port": "443",
+        "x-amzn-trace-id": "Root=1-682ad929-32ca9b5a14ae90910cef9cf4",
+        "user-agent": "PostmanRuntime/7.43.4",
+        "accept": "*/*",
+        "postman-token": "379eb23c-c2e3-437e-89ac-65a65c6b70c5",
+        "accept-encoding": "gzip, deflate, br",
+        "cookie": "sails.sid=s%3AK4vncN-DzB2PiNGRCcYxZgM_YCiuq46w.%2Fo48k4YrSpE600MRZs26NG5eMedOhUk7oEySHUvY71M"
+    },
+    "url": "https://postman-echo.com/get?foo1=bar1&foo2=bar2"
+}
